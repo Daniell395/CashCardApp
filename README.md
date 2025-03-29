@@ -1,5 +1,5 @@
 # CashCardApp
-##App made for Spring Academy course
+## App made for Spring Academy course
 
 App made for practise test
 
